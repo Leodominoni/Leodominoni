@@ -1,4 +1,4 @@
-## Oiii bem vindos ao meu GitHub :D
+## Bem-vindos ao meu GitHub :D
 ## Sou a Leo e fique a vontade para conferir meus projetos
 <div align="center">
   <a href="https://github.com/Leodominoni">
