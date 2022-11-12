@@ -1,4 +1,5 @@
-## Oiii eu sou a Leonor Dominoni, estudante de programação!
+## Oiii bem vindos ao meu GitHub :D
+## Sou a Leo e fique a vontade para conferir meus projetos
 <div align="center">
   <a href="https://github.com/Leodominoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leodominoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
